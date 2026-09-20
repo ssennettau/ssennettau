@@ -2,7 +2,8 @@
 
 `STATUS 🟢 operational`  ·  `region ap-southeast-4 — Melbourne 🇦🇺`  ·  `uptime 10y+`
 
-**Lead Consultant, Cloud & AI** at [V2 AI](https://v2.ai), working with Australia's largest enterprises on the hard problems where cloud architecture and AI collide — treating technology as a force multiplier, measured by impact, not just problems solved.
+**Principal Forward Deployed Engineer - Applied AI & Cloud** at [V2 AI](https://v2.ai), working with Australia's largest enterprises on the hard problems where cloud architecture and AI collide — treating technology as a force multiplier, measured by impact, not just problems solved.
+
 [AWS Community Hero](https://builder.aws.com/community/heroes/StephenSennett) · keynote speaker · non-profit director · [A Cloud Guru](https://www.pluralsight.com/authors/stephen-sennett) author.
 
 ---
